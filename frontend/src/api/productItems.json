@@ -1,0 +1,71 @@
+[
+  {
+    "images": [
+      "../../public/assets/image1com.jpg",
+      "../../public/assets/image2.jpg",
+      "../../public/assets/image3.jpg",
+      "../../public/assets/image4.jpg",
+      "../../public/assets/image5.jpg",
+      "../../public/assets/image6.jpg",
+      "../../public/assets/image7.jpg",
+      "../../public/assets/image8.jpg",
+      "../../public/assets/image9.jpg",
+      "../../public/assets/image10.jpg",
+      "../../public/assets/image12.jpg",
+      "../../public/assets/image13.jpg",
+      "../../public/assets/image14.jpg",
+      "../../public/assets/image15.jpg",
+      "../../public/assets/image16.jpg",
+      "../../public/assets/image17.jpg",
+      "../../public/assets/image18.jpg"
+    ],
+
+    "combo1lists": [
+      "৩৬ কালার আইশ্যাডো",
+      "মেকাপ সেটিং স্প্রে",
+      "৪ কালার হাইলাইটার",
+      "৪ কালার ব্লাশার",
+      "লুস পাউডার",
+      "ফেসপাউডার",
+      "কাজল",
+      "বিউটি ব্লেন্ডার",
+      "পাউডার পাফ ",
+      "কনসিলার",
+      "প্রাইমার",
+      "ফাউন্ডেশন",
+      "আইল্যাশ ",
+      "আইলাইনার",
+      "মাসকারা",
+      "ব্রাশ সেট",
+      "লিপলাইনার",
+      "লিপগ্লোস",
+      "মেহেদী"
+    ],
+    "combo2lists": [
+      "২৪ কালার আইশ্যাডো",
+      "মেকাপ সেটিং স্প্রে",
+      "ফাউন্ডেশন",
+      "প্রাইমার",
+      "ফেসপাউডার",
+      "লুস পাউডার",
+      "ব্রাশ সেট",
+      "মেহেদী",
+      "বিউটি ব্লেন্ডার",
+      "লিপগ্লোস",
+      "আইল্যাশ",
+      "কনসিলার"
+    ],
+    "images2": [
+      "../../public/assets/combo2.jpg",
+      "../../public/assets/image3.jpg",
+      "../../public/assets/image6.jpg",
+      "../../public/assets/image7.jpg",
+      "../../public/assets/image8.jpg",
+      "../../public/assets/image9.jpg",
+      "../../public/assets/image14.jpg",
+      "../../public/assets/image15.jpg",
+      "../../public/assets/image21.jpg",
+      "../../public/assets/image22.jpg"
+    ]
+  }
+]
