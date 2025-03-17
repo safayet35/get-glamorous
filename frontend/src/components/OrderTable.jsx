@@ -35,9 +35,9 @@ const OrderTable = ({ item }) => {
   return (
     <div className="p-4 space-y-4">
       <div
-        className={`${
-          item.isComplete ? "bg-sky-400" : null
-        } border-primary rounded-lg shadow-md p-4 bg-white`}
+        className={`border-primary rounded-lg shadow-md p-4 ${
+          item.isComplete ? "bg-sky-500" : "bg-white"
+        } `}
       >
         <table className="table w-full table-zebra">
           <tbody>
